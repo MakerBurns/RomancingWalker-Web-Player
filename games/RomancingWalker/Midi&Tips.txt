@@ -1,0 +1,17 @@
+http://rm2kfanboy.20m.com
+
+*In order to run the game you need "Rpg_rt.exe" file
+
+*If you don't have Running Package (RTPe, 11Meg) installed, 
+
+goto "http://www.gamingw.net" and check RPGMAKER2000 section or
+     "http://www.hotmog.150m.com"
+
+
+
+Sound Issues: Midis sound different with your multimedia settings
+              Goto Control Panel and choose Multimedia Settings, then
+              look at the MIDI device setting, if your setting is                    "Microsoft GS Wave Table SW", then no problem. But if
+              your setting is either soudblaster (sb16) or others the
+              midis sound very crappy compare to window default                    settings! So please be noted.
+
